@@ -1,4 +1,4 @@
-# CatalystOS
+# WebDeskOS
 WebDeskOS HTML app library package.
 
 # PLEASE UPDATE OVER TIME WE GET NEW APPS.
